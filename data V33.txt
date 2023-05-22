@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Play is a fundamental aspect of childhood and an essential component of a child's overall development.","photo2":"https://iili.io/HgSAHsp.jpg"},
+  {"desc3":" Playtime mob, a concept that emphasizes the importance of unstructured, imaginative play, has gained attention in recent years","photo3":"https://iili.io/HgSAlhx.jpg"},
+  {"desc4":"essay aims to delve into the significance of playtime mob in child development, highlighting its benefits and exploring ways to promote and encourage this type of play in today's society.","photo4":"https://iili.io/HgSAcIj.jpg"},
+  {"desc5":"Playtime mob refers to a form of play that is child-led, unstructured, and driven by imagination","photo5":"https://iili.io/HgSummJ.webp"},
+  {"descd":"involves children coming together in groups, creating their own games, rules, and narratives without adult intervention.","photod":"https://iili.io/HgSA0LQ.webp"}
    ]
  
 }
